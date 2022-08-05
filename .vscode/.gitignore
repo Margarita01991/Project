@@ -1,0 +1,8 @@
+*.bin
+*.obj
+*.user
+*.tmp
+*.log
+*.scc
+.localhistory/
+.vs/
