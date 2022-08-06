@@ -6,3 +6,5 @@
 *.scc
 .localhistory/
 .vs/
+//bin
+//obj
