@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\User\\.nuget\\packages\\": {}
+    "C:\\Users\\serge\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Documents\\Projects\\Examples\\Example002_HelloUser\\Example002_HelloUser.csproj",
+      "projectUniqueName": "C:\\Users\\serge\\Documents\\GeekBrains\\Project\\Example002_HelloUser\\Example002_HelloUser.csproj",
       "projectName": "Example002_HelloUser",
-      "projectPath": "C:\\Users\\User\\Documents\\Projects\\Examples\\Example002_HelloUser\\Example002_HelloUser.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Documents\\Projects\\Examples\\Example002_HelloUser\\obj\\",
+      "projectPath": "C:\\Users\\serge\\Documents\\GeekBrains\\Project\\Example002_HelloUser\\Example002_HelloUser.csproj",
+      "packagesPath": "C:\\Users\\serge\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\serge\\Documents\\GeekBrains\\Project\\Example002_HelloUser\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\serge\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"

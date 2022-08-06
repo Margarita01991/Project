@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\User\\.nuget\\packages\\": {}
+    "C:\\Users\\serge\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Documents\\Projects\\Examples\\Example004_Div\\Example004_Div.csproj",
+      "projectUniqueName": "C:\\Users\\serge\\Documents\\GeekBrains\\Project\\Example004_Div\\Example004_Div.csproj",
       "projectName": "Example004_Div",
-      "projectPath": "C:\\Users\\User\\Documents\\Projects\\Examples\\Example004_Div\\Example004_Div.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Documents\\Projects\\Examples\\Example004_Div\\obj\\",
+      "projectPath": "C:\\Users\\serge\\Documents\\GeekBrains\\Project\\Example004_Div\\Example004_Div.csproj",
+      "packagesPath": "C:\\Users\\serge\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\serge\\Documents\\GeekBrains\\Project\\Example004_Div\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\serge\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
