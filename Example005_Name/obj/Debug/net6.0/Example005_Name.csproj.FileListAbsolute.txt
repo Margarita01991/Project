@@ -1,0 +1,15 @@
+C:\Users\serge\Documents\GeekBrains\Project\Example005_Name\bin\Debug\net6.0\Example005_Name.exe
+C:\Users\serge\Documents\GeekBrains\Project\Example005_Name\bin\Debug\net6.0\Example005_Name.deps.json
+C:\Users\serge\Documents\GeekBrains\Project\Example005_Name\bin\Debug\net6.0\Example005_Name.runtimeconfig.json
+C:\Users\serge\Documents\GeekBrains\Project\Example005_Name\bin\Debug\net6.0\Example005_Name.dll
+C:\Users\serge\Documents\GeekBrains\Project\Example005_Name\bin\Debug\net6.0\Example005_Name.pdb
+C:\Users\serge\Documents\GeekBrains\Project\Example005_Name\obj\Debug\net6.0\Example005_Name.csproj.AssemblyReference.cache
+C:\Users\serge\Documents\GeekBrains\Project\Example005_Name\obj\Debug\net6.0\Example005_Name.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serge\Documents\GeekBrains\Project\Example005_Name\obj\Debug\net6.0\Example005_Name.AssemblyInfoInputs.cache
+C:\Users\serge\Documents\GeekBrains\Project\Example005_Name\obj\Debug\net6.0\Example005_Name.AssemblyInfo.cs
+C:\Users\serge\Documents\GeekBrains\Project\Example005_Name\obj\Debug\net6.0\Example005_Name.csproj.CoreCompileInputs.cache
+C:\Users\serge\Documents\GeekBrains\Project\Example005_Name\obj\Debug\net6.0\Example005_Name.dll
+C:\Users\serge\Documents\GeekBrains\Project\Example005_Name\obj\Debug\net6.0\refint\Example005_Name.dll
+C:\Users\serge\Documents\GeekBrains\Project\Example005_Name\obj\Debug\net6.0\Example005_Name.pdb
+C:\Users\serge\Documents\GeekBrains\Project\Example005_Name\obj\Debug\net6.0\Example005_Name.genruntimeconfig.cache
+C:\Users\serge\Documents\GeekBrains\Project\Example005_Name\obj\Debug\net6.0\ref\Example005_Name.dll
