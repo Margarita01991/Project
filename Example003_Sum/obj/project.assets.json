@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\serge\\Documents\\GeekBrains\\Project\\Example003_Hello\\Example003_Hello.csproj",
+      "projectUniqueName": "C:\\Users\\serge\\Documents\\GeekBrains\\Project\\Example003_Sum\\Example003_Hello.csproj",
       "projectName": "Example003_Hello",
-      "projectPath": "C:\\Users\\serge\\Documents\\GeekBrains\\Project\\Example003_Hello\\Example003_Hello.csproj",
+      "projectPath": "C:\\Users\\serge\\Documents\\GeekBrains\\Project\\Example003_Sum\\Example003_Hello.csproj",
       "packagesPath": "C:\\Users\\serge\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\serge\\Documents\\GeekBrains\\Project\\Example003_Hello\\obj\\",
+      "outputPath": "C:\\Users\\serge\\Documents\\GeekBrains\\Project\\Example003_Sum\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\serge\\AppData\\Roaming\\NuGet\\NuGet.Config"
